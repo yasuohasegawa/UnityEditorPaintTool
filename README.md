@@ -15,11 +15,7 @@ You can clear the all-drawn lines.<br>
 You can capture the Game View.<br>
 
 <br>
-![Screenshot](screen0.png)
-<br>
 <br>
 The line mesh always will be top of any meshes.<br>
 As for the default, this tool will use the Mesh API2, but if your unity editor is not compatible with the Mesh API2, you can also use the default Mesh API.
 <br>
-<br>
-![Screenshot](screen1.png)
